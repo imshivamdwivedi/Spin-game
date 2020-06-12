@@ -17,7 +17,10 @@
 ```diff
 # After clicking Button
 ```
-![Alt text]app/src/main/res/Screenshot_2020-06-12-10-51-40-692_com.example.spin.jpg)
+![Alt text](app/src/main/res/Screenshot_2020-06-12-10-51-40-692_com.example.spin.jpg)
 
 #Small Video
+<video width="320" height="240" controls>
+  <source src="app/src/main/res/Screenrecorder-2020-06-12-10-51-15-682.mp4" type="video/mp4">
+</video>
 
